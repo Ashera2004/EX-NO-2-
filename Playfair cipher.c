@@ -1,4 +1,4 @@
-```c
+
 // Playfair Cipher
 //Program by Siddarth A S 212224040316
 #include <stdio.h>
@@ -142,4 +142,4 @@ int main() {
 
     return 0;
 }
-```
+
